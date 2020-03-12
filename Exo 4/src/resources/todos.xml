@@ -1,0 +1,12 @@
+<todos>
+    <todo>
+        <creation>10-02-2020T17:10</creation>
+        <description>note 1</description>
+        <isDone>false</isDone>
+    </todo>
+    <todo>
+        <creation>10-02-2020T17:20</creation>
+        <description>note 2</description>
+        <isDone>true</isDone>
+    </todo>
+</todos>
